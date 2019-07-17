@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.28.0" platform="*nix">
+	<Servers>
+		<Server>
+			<Host>test.m2centerkrd.ru</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>tested@m2centerkrd.ru</User>
+			<Pass encoding="base64">SnF6TTJLdW40Yg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>xn--80aajtjjidhuujn.xn--p1ai.xsph.ru</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>andr</User>
+			<Pass encoding="base64">c3RnMTIzQA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 10</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>m2centerkrd.ru</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>123@m2centerkrd.ru</User>
+			<Pass encoding="base64">dzBRVW9jZ3dXbg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 3</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>77.222.42.108</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>wsfpru_project</User>
+			<Pass encoding="base64">Zmdwb2k0cDAwOWZkX0AhCg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 4</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>77.222.42.108</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>wsfpru_ssk</User>
+			<Pass encoding="base64">MTIzNDU2N1FXcXEh</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 5</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>m2centerkrd.ru</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>a0132768</User>
+			<Pass encoding="base64">bTJjZW50ZXJrcmQ=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 6</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>192.168.3.84</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp</User>
+			<Pass encoding="base64">ZnRw</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 7</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>185.72.146.135</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>andreycher</User>
+			<Pass encoding="base64">MGExNjM1ZWM=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 8</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>185.72.146.149</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>riskuba2rf</User>
+			<Pass encoding="base64">MTIzMDYwNnF6</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Новый сайт 9</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>

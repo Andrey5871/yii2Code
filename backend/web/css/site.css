@@ -1,0 +1,239 @@
+@font-face {
+    font-family: TTDrugs; /* Имя шрифта */
+    src: url(/frontend/web/fonts/TTDrugs-Thin.ttf); /* Путь к файлу со шрифтом */
+   }
+
+   @font-face{
+    font-family: TTNorms;
+    src: url(/frontend/web/fonts/TTNorms-Regular.ttf);
+   }
+
+   @font-face{
+    font-family: frutigerBold;
+    src: url(/frontend/web/fonts/frutigerBold.ttf);
+   }
+
+
+html,
+body {
+    height: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+.wrap > .container {
+    padding: 70px 15px 20px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: "\e151";
+}
+
+a.desc:after {
+    content: "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view td {
+    white-space: nowrap;
+}
+
+.grid-view .filters input,
+.grid-view .filters select {
+    min-width: 50px;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+/* align the logout "link" (button in form) of the navbar */
+.nav li > form > button.logout {
+    padding: 15px;
+    border: none;
+}
+
+@media(max-width:767px) {
+    .nav li > form > button.logout {
+        display:block;
+        text-align: left;
+        width: 100%;
+        padding: 10px 15px;
+    }
+}
+
+.nav > li > form > button.logout:focus,
+.nav > li > form > button.logout:hover {
+    text-decoration: none;
+}
+
+.nav > li > form > button.logout:focus {
+    outline: none;
+}
+
+header nav{
+    min-height: 100px;
+
+}
+
+
+header nav .navbar-brand{
+    font-size: 29px;
+    color: #dddddd;
+    font-family: TTDrugs;
+}
+
+
+
+header nav .navbar-collapse ul li a{
+    font-family: "TTDrugs";
+    font-size: 18px;
+    color: #dddddd;
+    margin-left: 50px;
+    text-transform: uppercase;
+    transition: all .5s;
+}
+header nav .navbar-collapse ul li a.active{
+        font-weight: bold;
+}
+header nav .navbar-collapse ul li a:hover{
+    font-weight: bold;
+}
+header nav .navbar-collapse .rightAuth .userIcons img{
+    display: inline;
+    width: 30px;
+}
+header nav .navbar-collapse .rightAuth .authHref a{
+    font-family: "TTDrugs";
+    font-size: 16px;
+    color: #dddddd;
+    transition: all .5s;
+    text-decoration: none;
+}
+
+header nav .navbar-collapse .rightAuth .authHref a:hover{
+    font-weight: bold;
+}
+
+header .headerContent .wrapper .container .row h2{
+    font-family: Myriad Pro;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header .card.grey{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+header .card .card-text{
+    font-family: TTNorms;
+    font-size: 16px;
+    text-align: right;
+    font-style: normal;
+}
+
+@media screen and (max-width: 768px){
+        header .card, header .card .card-text{
+    text-align: center;
+        }
+}
+
+header .card .btn-grey{
+    font-family: TTNorms;
+    font-weight: bold;
+    border-radius: 10px;
+    background: #ffffff !important; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, #ffffff 0%, #d3d3d3 100%) !important; /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, #ffffff 0%,#d3d3d3 100%) !important; /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, #ffffff 0%,#d3d3d3 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d3d3d3',GradientType=1 ) !important; /* IE6-9 fallback on horizontal gradient */
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+        .zebra .container .row h1{
+            text-align: center;
+            padding-bottom:20px;
+        }
+        .zebra .container .row p{
+            text-align: center;
+        }
+        .zebra .container .card{
+            margin-top:20px;
+
+        }
+}
+
+.zebra .container .row p{
+        font-family: TTNorms;
+        font-size: 29px;
+}

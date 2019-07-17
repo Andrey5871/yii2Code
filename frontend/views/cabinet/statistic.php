@@ -1,0 +1,3 @@
+<!-- STATISTICBEGIN -->
+<h2>STATS</h2>
+<!-- STATISTICEND -->
